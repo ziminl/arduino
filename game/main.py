@@ -1,3 +1,5 @@
+#pip install opencv-python pyserial numpy
+
 import cv2
 import numpy as np
 import serial
